@@ -417,15 +417,15 @@ header .fa-bars {
 }
 
 .box-web::before {
-  background-image: url(images/web.png);
+  background-image: url(images/web.jpg);
 }
 
 .box-seo::before{
-  background-image: url(images/seo.png);
+  background-image: url(images/seo.jpg);
 }
 
 .box-graphic::before{
-  background-image: url(images/graphic.jpg);
+  background-image: url(images/graphic2.jpg);
 }
 
 .course .box-container .box i {
